@@ -1,1 +1,1 @@
-[![Header] (https://github.com/SiltStraider/SiltStraider/blob/main/assets/для%20gh.png)]
+![Header](https://github.com/SiltStraider/SiltStraider/blob/main/assets/for_gh.png)
