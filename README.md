@@ -1,6 +1,6 @@
 ![Header](https://github.com/SiltStraider/SiltStraider/blob/main/assets/for_gh.png)
 
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Алексей!👋
 
 ---
 
@@ -61,7 +61,7 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
   <img src="https://data.world/api/datadotworld-apps/dataset/postgresql/file/raw/logo.png" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp
-  <img src="https://club.directum.ru/uploads/images/DBeaver_logo.svg.png_9ad406c40a1e4dbb83503a772f36d307.png" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
+  <img src="https://pandorafms.com/blog/wp-content/uploads/2019/07/software-libre-sql-6.png" title="dbeaver" alt="dbeaver" width="40" height="40"/>&nbsp
   <img src="https://pic.mac89.com/icon/202312/07075555_bd2128b2ee.png" title="datagrip" alt="datagrip" width="40" height="40"/>&nbsp
 </div>
 
